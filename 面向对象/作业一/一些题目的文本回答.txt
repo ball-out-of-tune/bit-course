@@ -1,0 +1,29 @@
+3-9
+expected output:
+i = 1
+i = 2
+i = 3
+i = 4
+i = 5
+i = 6
+i = 7
+i = 8
+i = 9
+i = 10
+
+reason:
+func中static关键字使得i只在第一次被声明时被初始化
+同时++i使得i先加一后输出
+
+3-32  
+见代码
+5-5
+由于A授予了B class以及 C class member function友元权限，故可以访问，运行代码即可证明
+5-14
+见代码
+6-10
+不写构造函数时，class会自动调用默认构造函数，此时默认构造函数为空，创建了一个Dog object；
+而写了构造函数之后，除了创建了一个Dog object之外，我的构造函数还为这个对象分配了weight变量的值；
+
+7-4
+不改变

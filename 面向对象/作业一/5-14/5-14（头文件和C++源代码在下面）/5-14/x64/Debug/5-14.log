@@ -1,0 +1,3 @@
+﻿  StackImpVectorVersion.cpp
+C:\Users\16874\Desktop\bit-cscourse-assignments\面向对象\作业一\5-14\5-14\5-14\StackImpVectorVersion.cpp(23,30): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  5-14.vcxproj -> C:\Users\16874\Desktop\bit-cscourse-assignments\面向对象\作业一\5-14\5-14\x64\Debug\5-14.exe
